@@ -32,7 +32,7 @@ module.exports = {
         table: 'cities',
         field: 'id'
       },
-      onUpdate: 'CASCADE',
+      // onUpdate: 'CASCADE',
       onDelete: 'CASCADE'
     });
   },
